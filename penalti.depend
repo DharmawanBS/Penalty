@@ -1,0 +1,115 @@
+# depslib dependency file v1.0
+1481981918 source:c:\users\widhi mahaputra\documents\grafkom\penalti\penalti.cpp
+	"Angel.h"
+	<GL/gl.h>
+	<GL/glut.h>
+	<stdio.h>
+
+1474371862 c:\users\widhi mahaputra\documents\grafkom\penalti\library\include\angel.h
+	<cmath>
+	<iostream>
+	<OpenGL/OpenGL.h>
+	<GLUT/glut.h>
+	<GL/glew.h>
+	<GL/gl.h>
+	<GL/freeglut.h>
+	<GL/freeglut_ext.h>
+	"vec.h"
+	"mat.h"
+	"CheckError.h"
+
+1301111164 c:\program files (x86)\codeblocks\mingw\include\gl\gl.h
+
+1474166150 c:\users\widhi mahaputra\documents\grafkom\penalti\library\include\vec.h
+	"Angel.h"
+
+1474166148 c:\users\widhi mahaputra\documents\grafkom\penalti\library\include\mat.h
+	<stdio.h>
+	"vec.h"
+
+1341006776 c:\program files (x86)\codeblocks\mingw\include\stdio.h
+	<_mingw.h>
+	<stddef.h>
+	<stdarg.h>
+	<sys/types.h>
+
+1341006770 c:\program files (x86)\codeblocks\mingw\include\_mingw.h
+
+1341006780 c:\program files (x86)\codeblocks\mingw\include\sys\types.h
+	<_mingw.h>
+	<stddef.h>
+
+1474166148 c:\users\widhi mahaputra\documents\grafkom\penalti\library\include\checkerror.h
+	<stdio.h>
+	<GL/gl.h>
+
+1482233615 source:c:\users\widhi mahaputra\documents\grafkom\penalti\bola.cpp
+	"Angel.h"
+	<stdlib.h>
+	<vector>
+	<fstream>
+
+1341006776 c:\program files (x86)\codeblocks\mingw\include\stdlib.h
+	<_mingw.h>
+	<stddef.h>
+
+1474166148 source:d:\kuliah\semester 5\grafkom\labs-examples\common\initshader.cpp
+	"Angel.h"
+
+1482254228 source:e:\penalti\bola.cpp
+	"Angel.h"
+	<stdlib.h>
+	<vector>
+	<fstream>
+
+1474371862 e:\penalti\library\include\angel.h
+	<cmath>
+	<iostream>
+	<OpenGL/OpenGL.h>
+	<GLUT/glut.h>
+	<GL/glew.h>
+	<GL/gl.h>
+	<GL/freeglut.h>
+	<GL/freeglut_ext.h>
+	"vec.h"
+	"mat.h"
+	"CheckError.h"
+
+1474166150 e:\penalti\library\include\vec.h
+	"Angel.h"
+
+1474166148 e:\penalti\library\include\mat.h
+	<stdio.h>
+	"vec.h"
+
+1474166148 e:\penalti\library\include\checkerror.h
+	<stdio.h>
+	<GL/gl.h>
+
+1474166148 source:e:\penalti\common\initshader.cpp
+	"Angel.h"
+
+1474432331 e:\matkul\smt_5\grafkom\code\include\angel.h
+	<cmath>
+	<iostream>
+	<OpenGL/OpenGL.h>
+	<GLUT/glut.h>
+	<GL/glew.h>
+	<GL/gl.h>
+	<GL/freeglut.h>
+	<GL/freeglut_ext.h>
+	"vec.h"
+	"mat.h"
+	"CheckError.h"
+
+1474166150 e:\matkul\smt_5\grafkom\code\include\vec.h
+	"Angel.h"
+
+1474166148 e:\matkul\smt_5\grafkom\code\include\mat.h
+	<stdio.h>
+	"vec.h"
+
+1474166148 e:\matkul\smt_5\grafkom\code\include\checkerror.h
+	<stdio.h>
+	<GL/gl.h>
+
